@@ -29,8 +29,8 @@ This training session is for students, engineers, and computer scientists who wi
 
 - Basic knowledge in statistics: elementary probability, statistical tests, Gaussian linear model.
 - Basic knowledge in algorithmic and programming.
-- Install Python 3.6 with [Anaconda](https://conda.io/docs/user-guide/install/download.html). 
-- Install with `conda` the [Keras](https://keras.io/) library including [TensorFLow](https://www.tensorflow.org/).
+- **Install** Python 3.6 with [Anaconda](https://conda.io/docs/user-guide/install/download.html). 
+- **Install** with `conda` the [Keras](https://keras.io/) library including [TensorFLow](https://www.tensorflow.org/).
 - Internet access during the sessions in order to get possible updates or to load additional libraries.
 
 *Scientific contacts:*  [Philippe Besse](https://www.math.univ-toulouse.fr/~besse/),  [Aurélien Garivier](https://www.math.univ-toulouse.fr/~agarivie/), [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/) 
@@ -44,7 +44,9 @@ Every day from 9h to 17h30. Morning: lecture; afternoon: hands-on sessions.
 	- Agglomerative Hierarchical Clustering
 	- k-means, k-medoids and variants, dbscan
 	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/day1.pdf)
-	- **Tutorials** Execute successively the episodes one of each notebook: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-Ozone.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-MNIST.ipynb)
+	- **Tutorials** Execute successively the episodes one of each notebook: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-Ozone.ipynb),
+	[Mars](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-Mars.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-MNIST.ipynb). The segmentation of an image of Mars by clustering algorithms is specific to the first day.
+	- ***N.B.*** It would be too long to execute all notebooks. So you can choose then accordingly to your level and / or your field of interest. Their is a complexity progression from Ozone to MNIST.
 - **Day2 Supervised learning 1 / 2**
 	- k nearest neighbors
 	- Gaussian linear model, logistic regression, model selection
