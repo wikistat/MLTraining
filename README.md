@@ -44,18 +44,20 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
    - Rappels sur le modèle linéaire gaussien, la régression logistique
    - Arbres et agrégation (*random forest, boosting, XGBoost*)
 * Tutoriels
-  - Analyse de signaux: gyroscope et accéléromètre appliqué à la [reconnaissance d'activité humaine](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb) (HAR 1)
-  - Données textuelles: préparation et apprentissage, détection de catégories
+- [`ML-Tutorial-MNIST.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-MNIST.ipynb): reconnaissance de caractères du fichier MNIST (épisodes 1 et 2).
+  - [`ML-Tutorial-IoT-Har.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb): Analyse de signaux: gyroscope et accéléromètre appliqué à la reconnaissance d'activité humaine (HAR épisodes 1 et 2))
+  - Données textuelles: préparation et apprentissage, détection de catégories.
   - Analyse de sentiments 1
+  - Facultatif: [`ML-Tutorial-Ozone.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-Ozone.ipynb) Prévision de la concentration en ozone(épisodes ).
 
 #### Deuxième jour
 * Apprentissage supervisé 2
+   - SVM
    - Réseaux de neurones
    - Apprentissage profond
-   - SVM
 * Tutoriels
-  - [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-MNIST.ipynb): reconnaissance de caractères
-  - [HAR 2](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb) par apprentissage profond sans transformer les données
+  - [`ML-Tutorial-MNIST.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-MNIST.ipynb): reconnaissance de caractères du fichier MNIST (épisode 3).
+  - [`ML-Tutorial-IoT-Har.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb) HAR par apprentissage profond sans transformer les données (épisodes 3).
   - Analyse de sentiments 2
   - Reconnaissance d'images: cats vs. dogs
 
@@ -66,7 +68,7 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
    - LOF, Isolation forest
    - OCC SVM,
 * Tutoriels
-   - Anomalies des données de prévision de la concentration en [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-Ozone.ipynb)
+   - [`Apprent-Python-Ozone.ipynb`]() Anomalies des données de prévision de la concentration en 
    - Détection d'anomalies en grande dimension (données fonctionnelles)
 
 
