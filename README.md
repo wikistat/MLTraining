@@ -31,46 +31,47 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
 *Contacts:*  [Philippe Besse](https://www.math.univ-toulouse.fr/~besse/),  [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/) 
 
 ### Programme 
-9h-12h 13h30-17h
+* 9h-12h 13h30-17h
+* [Diaporamas]()
 
 #### Premier jour
-   * Introduction à la Science des Données
-   * Préparation et exploraiton
+* Introduction à la Science des Données
+* Préparation et exploraiton
    - Analyse en composantes principales, factorielles dicriminantes, 
    - Cas des données textuelles (TF-IDF)
-   * Apprentissage supervisé 1
-    - Quantifier une erreur de prévision, un risque
-    - Rappels sur le modèle linéaire gaussien, la régression logistique
-    - Arbres et agrégation (*random forest, boosting, XGBoost*)
-   * Tutoriels
-   - Analyse de signaux: gyroscope et accéléromètre appliqué à la [reconnaissance d'activité humaine](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb) (HAR 1)
-   - Données textuelles: préparation et apprentissage, détection de catégories
-   - Analyse de sentiments 1
+* Apprentissage supervisé 1
+   - Quantifier une erreur de prévision, un risque
+   - Rappels sur le modèle linéaire gaussien, la régression logistique
+   - Arbres et agrégation (*random forest, boosting, XGBoost*)
+* Tutoriels
+  - Analyse de signaux: gyroscope et accéléromètre appliqué à la [reconnaissance d'activité humaine](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb) (HAR 1)
+  - Données textuelles: préparation et apprentissage, détection de catégories
+  - Analyse de sentiments 1
 
 #### Deuxième jour
-   * Apprentissage supervisé 2
-    - Réseaux de neurones
-    - Apprentissage profond
-    - SVM
-   * Tutoriels
-   - [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-MNIST.ipynb): reconnaissance de caractères
-   - [HAR 2](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb) par apprentissage profond sans transformer les données
-   - Analyse de sentiments 2
-   - Reconnaissance d'images: cats vs. dogs
+* Apprentissage supervisé 2
+   - Réseaux de neurones
+   - Apprentissage profond
+   - SVM
+* Tutoriels
+  - [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-MNIST.ipynb): reconnaissance de caractères
+  - [HAR 2](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb) par apprentissage profond sans transformer les données
+  - Analyse de sentiments 2
+  - Reconnaissance d'images: cats vs. dogs
 
 #### Troisième jour
-   * Préparation des données pour des signaux
+* Préparation des données pour des signaux
    - splines, Fourier, ondelettes
-   * Détection d'anomalies
-    - LOF, Isolation forest
-    - OCC SVM,
-   * Tutoriels
+* Détection d'anomalies
+   - LOF, Isolation forest
+   - OCC SVM,
+* Tutoriels
    - Anomalies des données de prévision de la concentration en [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-Ozone.ipynb)
    - Détection d'anomalies en grande dimension (données fonctionnelles)
 
-#### Répertoire des [Diapositives]()
 
-#### Répertoire des [Tutoriels]()
+
+
 
 	
 *N.B.* Des calepins d'analyse d'autres cas d'usage sont disponibles sur le site  [Wikistat](https://github.com/wikistat/).
