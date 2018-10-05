@@ -30,9 +30,20 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
 
 *Contacts:*  [Philippe Besse](https://www.math.univ-toulouse.fr/~besse/),  [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/) 
 
+#### Exécution des tutoriels 
+
+- Charger l'ensemble des calepins (*jupyter notebooks*) à partir du bouton [`download`](https://github.com/wikistat/MLTraining/archive/master.zip) de la [page d'accueil](https://github.com/wikistat/MLTraining) 
+- Décompresser le fichier téléchargé
+- Ouvrir une fenêtre de terminal
+- Changer de répertoire courant pour celui `MLTraining` créé précédemment
+- Exécuter la commande  `jupyter notebook` dans ce terminal qui lance le navigateur par défaut
+- Ouvir le bon calepin à parti de l'onglet `Home` du navigateur 
+- Exécuter les cellules en analysant les commandes successives et interprétant les résultats.
+
+
 ### Programme 
 * 9h-12h 13h30-17h
-* [Diaporamas]()
+* [Diaporamas](https://github.com/wikistat/MLTraining/tree/master/Diaporamas)
 
 #### Premier jour
 * Introduction à la Science des Données
@@ -59,7 +70,7 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
   - [`ML-Tutorial-MNIST.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-MNIST.ipynb): reconnaissance de caractères du fichier MNIST (épisode 3).
   - [`ML-Tutorial-IoT-Har.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb) HAR par apprentissage profond sans transformer les données (épisodes 3).
   - Analyse de sentiments 2
-  - Reconnaissance d'images: cats vs. dogs
+  - [Cats vs. Dogs](https://github.com/wikistat/MLTraining/tree/master/CatsVSDogs): Reconnaissance d'images par transfert d'apprentissage. Carte GPU nécessaire pour entraîner le réseau avec l'ensemble de la base d'apprentissage.
 
 #### Troisième jour
 * Préparation des données pour des signaux
@@ -68,7 +79,7 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
    - LOF, Isolation forest
    - OCC SVM,
 * Tutoriels
-   - [`Apprent-Python-Ozone.ipynb`]() Anomalies des données de prévision de la concentration en 
+   - [`Apprent-Python-Ozone.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Apprent-Python-Ozone.ipynb) Anomalies des données de prévision de la concentration en Ozone (épisode 5 bis). Exécuter les cellules jusqu'à la section 4.1 incluses pour préparer les données avant de sauter à l'épisode 5 bis.
    - Détection d'anomalies en grande dimension (données fonctionnelles)
 
 
