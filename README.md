@@ -24,7 +24,7 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
 - Compétences de base en algorithmique et programmation.
 - **Installation** complète de Python 3.6 ou supérieure avec [Anaconda](https://conda.io/docs/user-guide/install/download.html). 
 - **Installation** avec `conda` de la librairie [Keras](https://keras.io/) incluant [TensorFLow](https://www.tensorflow.org/).
-- Accès internet durant la session afin de pouvoir accéder à déventuelles mises à jour.
+- Accès internet durant la session afin de pouvoir accéder à des données et d'éventuelles mises à jour.
 - Tester au préalable la bonn eexécution des tutoriels (*jupyter notebooks*) sur l'installation
 
 
