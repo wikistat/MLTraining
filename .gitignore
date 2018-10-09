@@ -6,4 +6,5 @@
 ./Cdiscount/*clean.csv
 ./Cdiscount/*_stem.scv
 ./Cdiscount/*subset.csv
-
+./Notebooks/CatsVSDogs/subsample_2000N_train_800_N_val/subsample_2000N_train_800_N_val/.DS_Store
+./Notebooks/CatsVSDogs/subsample_200N_train_80_N_val/.DS_Store
