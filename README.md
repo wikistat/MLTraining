@@ -22,24 +22,24 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
 #### Prérequis
 - Compétences de base en Statistique: probabilités élémentaires, statistique descriptive, modèle linéaire.
 - Compétences de base en algorithmique et programmation.
-- **Installation** complète de Python 3.6 ou supérieure avec [Anaconda](https://conda.io/docs/user-guide/install/download.html). 
-- **Installation** avec `conda` de la librairie [Keras](https://keras.io/) incluant [TensorFLow](https://www.tensorflow.org/).
+- **Installation** complète de Python 3.6 avec [Anaconda](https://conda.io/docs/user-guide/install/download.html). 
+- **Installation** avec `conda` des librairies [Keras](https://keras.io/) incluant [TensorFLow](https://www.tensorflow.org/), `gensim`.
+- `conda install -c conda-forge wordcloud`
 - Accès internet durant la session afin de pouvoir accéder à des données et d'éventuelles mises à jour.
 - Tester au préalable la bonn eexécution des tutoriels (*jupyter notebooks*) sur l'installation
 
 
-*Contacts:*  [Philippe Besse](https://www.math.univ-toulouse.fr/~besse/),  [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/) 
-
 #### Exécution des tutoriels 
 
 - Charger l'ensemble des calepins (*jupyter notebooks*) à partir du bouton [`download`](https://github.com/wikistat/MLTraining/archive/master.zip) de la [page d'accueil](https://github.com/wikistat/MLTraining) 
-- Décompresser le fichier téléchargé
+- Décompresser le fichier téléchargé dans un répertoire 
 - Ouvrir une fenêtre de terminal
 - Changer de répertoire courant pour celui `MLTraining` créé précédemment
-- Exécuter la commande  `jupyter notebook` dans ce terminal qui lance le navigateur par défaut
-- Ouvir le bon calepin à parti de l'onglet `Home` du navigateur 
-- Exécuter les cellules en analysant les commandes successives et interprétant les résultats.
+- Exécuter la commande  `jupyter notebook` dans ce terminal pour lancer le navigateur par défaut
+- Ouvrir le bon calepin à partir de l'onglet `Home` du navigateur 
+- Exécuter les cellules en analysant les commandes et interprétant les résultats.
 
+*Contacts:*  [Philippe Besse](https://www.math.univ-toulouse.fr/~besse/),  [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/) 
 
 ### Programme 
 * 9h-12h 13h30-17h
@@ -55,11 +55,11 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
    - Rappels sur le modèle linéaire gaussien, la régression logistique
    - Arbres et agrégation (*random forest, boosting, XGBoost*)
 * Tutoriels
-- [`ML-Tutorial-MNIST.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-MNIST.ipynb): reconnaissance de caractères du fichier MNIST (épisodes 1 et 2).
-  - [`ML-Tutorial-IoT-Har.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb): Analyse de signaux: gyroscope et accéléromètre appliqué à la reconnaissance d'activité humaine (HAR épisodes 1 et 2))
+- [`ML-Tutorial-MNIST.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb): reconnaissance de caractères du fichier MNIST (épisodes 1 et 2).
+  - [`ML-Tutorial-IoT-Har.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-Tutorial-IoT-Har.ipynb): Analyse de signaux: gyroscope et accéléromètre appliqué à la reconnaissance d'activité humaine (HAR épisodes 1 et 2))
   - Données textuelles: préparation et apprentissage, détection de catégories.
   - Analyse de sentiments 1
-  - Facultatif: [`ML-Tutorial-Ozone.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-Ozone.ipynb) Prévision de la concentration en ozone(épisodes ).
+  - Facultatif: [`ML-Tutorial-Ozone.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb) Prévision de la concentration en ozone(épisodes 1 à 4).
 
 #### Deuxième jour
 * Apprentissage supervisé 2
@@ -67,8 +67,8 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
    - Réseaux de neurones
    - Apprentissage profond
 * Tutoriels
-  - [`ML-Tutorial-MNIST.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-MNIST.ipynb): reconnaissance de caractères du fichier MNIST (épisode 3).
-  - [`ML-Tutorial-IoT-Har.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb) HAR par apprentissage profond sans transformer les données (épisodes 3).
+  - [`ML-Tutorial-MNIST.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb): reconnaissance de caractères du fichier MNIST (épisode 3).
+  - [`ML-Tutorial-IoT-Har.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-Tutorial-IoT-Har.ipynb) HAR par apprentissage profond sans transformer les données (épisodes 3).
   - Analyse de sentiments 2
   - [Cats vs. Dogs](https://github.com/wikistat/MLTraining/tree/master/CatsVSDogs): Reconnaissance d'images par transfert d'apprentissage. Carte GPU nécessaire pour entraîner le réseau avec l'ensemble de la base d'apprentissage.
 
@@ -79,7 +79,7 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
    - LOF, Isolation forest
    - OCC SVM,
 * Tutoriels
-   - [`Apprent-Python-Ozone.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Apprent-Python-Ozone.ipynb) Anomalies des données de prévision de la concentration en Ozone (épisode 5 bis). Exécuter les cellules jusqu'à la section 4.1 incluses pour préparer les données avant de sauter à l'épisode 5 bis.
+   - [`Apprent-Python-Ozone.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb) Anomalies des données de prévision de la concentration en Ozone (épisode 5 bis). Exécuter les cellules jusqu'à la section 4.1 incluses pour préparer les données avant de sauter à l'épisode 5 bis.
    - Détection d'anomalies en grande dimension (données fonctionnelles)
 
 
