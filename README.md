@@ -79,7 +79,8 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
       - Prévision de la concentration en ozone, révision des jours précédents (épisodes 1 à 4). 
       - Imputation de données manquantes (épisode 5). 
       - Anomalies des données (épisode 5 bis). Exécuter les cellules jusqu'à la section 4.1 incluses pour préparer les données avant de sauter à l'épisode 5 bis.
-   - [`HDSTAT-Python-Anomaly-Detection.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HDSTAT-Python-Anomaly-Detection.ipynb) Détection d'anomalies en grande dimension (données fonctionnelles).
+   - [`HDL-Python-wavelet-1D.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/AnomFonc/HDL-Python-wavelet-1D.ipynb): Introduction à la décomposition en ondelettes 1D avec Python.
+   - [`HDL-Python-Anomaly-Detection.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HDL-Python-Anomaly-Detection.ipynb) Détection d'anomalies en grande dimension (données fonctionnelles). LOF, Isolation Forest, One Class SVM sur les coefficients en ondelettes de courbes.
 
 
 *N.B.* Des calepins d'analyse d'autres cas d'usage sont disponibles sur le site  [Wikistat](https://github.com/wikistat/).

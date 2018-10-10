@@ -17,7 +17,7 @@ Ce répertoire contient tous les calepins (*jupyter notebooks*) ainsi que les je
 - Exécuter les cellules en analysant les commandes successives et interprétant les résultats.
 
 ### Cas d'usage
-
+- [AnomFonc](https://github.com/wikistat/MLTraining/tree/master/Notebooks/AnomFonc): décomposition en ondelettes et détection d'anomalies de données fonctionelles.
 - [CatsVSDogs](https://github.com/wikistat/MLTraining/tree/master/Notebooks/CatsVSDogs): reconnaissance d'images par transfert d'apprentissage d'un réseau de neurpones profond.
 - [Cdiscount](https://github.com/wikistat/MLTraining/tree/master/Notebooks/Cdiscount): catégorisation de produits à partir de leur descriptif. *Natural Language Process (NLP)*. Préparation des données, vectorisation (TFIDF, word2vec), classificaiton supervisée.
 - [HAR](https://github.com/wikistat/MLTraining/tree/master/Notebooks/HAR): *Human activity recognition* à partir des signaux (accéléromètre, gyroscope) d'un smartphone. 
