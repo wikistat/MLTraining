@@ -1,10 +1,8 @@
 **/.ipynb_checkpoints/
 .ipynb_checkpoints/
-./Cerfacs/
-./Notebooks/Cdiscount/features/*.*
-./Notebooks/Cdiscount/fr/*.*
-./Notebooks/Cdiscount/*clean.csv
-./Notebooks/Cdiscount/*_stem.scv
-./Notebooks/Cdiscount/*subset.csv
-./Notebooks/CatsVSDogs/subsample_2000N_train_800_N_val/subsample_2000N_train_800_N_val/.DS_Store
-./Notebooks/CatsVSDogs/subsample_200N_train_80_N_val/.DS_Store
+Cerfacs/
+Notebooks/Cdiscount/data/features/*.*
+Notebooks/Cdiscount/data/fr/*.*
+Notebooks/Cdiscount/data/*.csv
+Notebooks/CatsVSDogs/subsample_2000N_train_800_N_val/subsample_2000N_train_800_N_val/.DS_Store
+Notebooks/CatsVSDogs/subsample_200N_train_80_N_val/.DS_Store
