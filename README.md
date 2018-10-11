@@ -6,7 +6,7 @@
 Cette formation propose aux participants de renforcer leurs connaissances théoriques et compétences pour le développement et l'implémentation des techniques et algorithmes d'apprentissage statistique. Les principales méthodes statistiques et algorithmes d'exploration et de prévision sont présentés d'un point de vue théorique puis illustrés sur des cas d'usage réels en exécutant des tutoriels écrits en Python et utilisant les principales librairies: Scikit-learn, Keras, TensorFlow.
 
 #### Objectif du cours
-Conaître les principaux algorithmes d'apprentissage statistique et savoir les mettre en oeuvre en Python notamment pour des données fonctionnelles (images, signaux).
+Connaître les principaux algorithmes d'apprentissage statistique et savoir les mettre en oeuvre en Python notamment pour du langage naturel et des données fonctionnelles (images, signaux).
 
 #### Objectifs pédagopgiques
 Les participants seront capables de
@@ -17,7 +17,7 @@ Les participants seront capables de
 - les implémenter en utilisant les librairies dédiées en Python.
 
 #### Participants ciblés
-Ce module de formation est dédié  à des ingénieurs informaticiens, data scientists, qui souhaitent renforcer leurs compétences pour l'analyse automatique de données par des algorithmes d'apprentissage statistique.
+Ce module de formation est dédié  à des ingénieurs informaticiens, data scientists, qui souhaitent renforcer leurs compétences pour l'analyse automatique de données par des algorithmes d'apprentissage statistique et de détection d'anomalies.
 
 #### Prérequis
 - Compétences de base en Statistique: probabilités élémentaires, statistique descriptive, modèle linéaire.
@@ -70,18 +70,18 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
 #### Troisième jour
 * [Diaporama 3](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-jour3.pdf)
 * Préparation des données pour des signaux
-   - splines, Fourier, ondelettes
+   - splines, ondelettes
 * Détection d'anomalies
-   - LOF, Isolation forest
-   - OCC SVM,
+   - CAH, LOF, 
+   - OCC SVM, Isolation forest
 * Tutoriels
    - [`Apprent-Python-Ozone.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb) 
       - Prévision de la concentration en ozone, révision des jours précédents (épisodes 1 à 4). 
       - Imputation de données manquantes (épisode 5). 
       - Anomalies des données (épisode 5 bis). Exécuter les cellules jusqu'à la section 4.1 incluses pour préparer les données avant de sauter à l'épisode 5 bis.
    - [`HDL-Python-wavelet-1D.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/AnomFonc/HDL-Python-wavelet-1D.ipynb): Introduction à la décomposition en ondelettes 1D avec Python.
-   - [`HDL-Python-Anomaly-Detection.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HDL-Python-Anomaly-Detection.ipynb) Détection d'anomalies en grande dimension (données fonctionnelles). LOF, Isolation Forest, One Class SVM sur les coefficients en ondelettes de courbes.
-
+   - [`HDL-Python-Anomaly-Detection.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HDL-Python-Anomaly-Detection.ipynb) Détection d'anomalies en grande dimension (données fonctionnelles). CAH, LOF, Isolation Forest, One Class SVM sur les coefficients en ondelettes de courbes.
+ 
 
 *N.B.* Des calepins d'analyse d'autres cas d'usage sont disponibles sur le site  [Wikistat](https://github.com/wikistat/).
 
