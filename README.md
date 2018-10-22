@@ -45,7 +45,8 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
 9h-12h 13h30-17h
 
 #### Premier jour
-* [Diaporama 1](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-jour1.pdf)
+
+* [Diaporama 1](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-j1-linTreeRfBoost.pdf)
 * Apprentissage supervisé 1
    - Quantifier une erreur de prévision, un risque
    - Rappels sur le modèle linéaire gaussien, la régression logistique
@@ -56,7 +57,8 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
   - [`ML-Python-CDiscount.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Cdiscount/ML-Python-CDiscount.ipynb): *NLP*: prévision de catégories de textes (épisodes 1 à 3)
 
 #### Deuxième jour
-* [Diaporama 2](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-jour2.pdf)
+* [Diaporama 2.1](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-j21-SVM.pdf)
+* [Diaporama 2.2](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-j22-RnDl.pdf)
 * Apprentissage supervisé 2
    - SVM
    - Réseaux de neurones
@@ -68,7 +70,8 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
   - [`Atelier-keras-CatsVSDogs.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/CatsVSDogs/Atelier-keras-CatsVSDogs.ipynb): (facultatif) Reconnaissance d'images par transfert d'apprentissage. Carte GPU nécessaire pour entraîner le réseau avec l'ensemble de la base d'apprentissage.
 
 #### Troisième jour
-* [Diaporama 3](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-jour3.pdf)
+* [Diaporama 3.1](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-j31-splinOnd.pdf)
+* [Diaporama 3.2](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-j32-anomDetect.pdf)
 * Préparation des données pour des signaux
    - splines, ondelettes
 * Détection d'anomalies
@@ -76,8 +79,8 @@ Ce module de formation est dédié  à des ingénieurs informaticiens, data scie
    - OCC SVM, Isolation forest
 * Tutoriels
    - [`Apprent-Python-Ozone.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb) 
-      - Prévision de la concentration en ozone, révision des jours précédents (épisodes 1 à 4). 
-      - Imputation de données manquantes (épisode 5). 
+      - (Facultatif) Prévision de la concentration en ozone, révision des jours précédents (épisodes 1 à 4). 
+      - (Facultatif) Imputation de données manquantes (épisode 5). 
       - Anomalies des données (épisode 5 bis). Exécuter les cellules jusqu'à la section 4.1 incluses pour préparer les données avant de sauter à l'épisode 5 bis.
    - [`HDL-Python-wavelet-1D.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/AnomFonc/HDL-Python-wavelet-1D.ipynb): Introduction à la décomposition en ondelettes 1D avec Python.
    - [`HDL-Python-Anomaly-Detection.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HDL-Python-Anomaly-Detection.ipynb) Détection d'anomalies en grande dimension (données fonctionnelles). CAH, LOF, Isolation Forest, One Class SVM sur les coefficients en ondelettes de courbes.
