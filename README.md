@@ -1,90 +1,71 @@
-## <a href="http://www.insa-toulouse.fr/" ><img src="http://www.math.univ-toulouse.fr/~besse/Wikistat/Images/Logo_INSAvilletoulouse-RVB.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/> |  [*Mathématiques Appliquées*](http://www.math.insa-toulouse.fr/fr/index.html), [`Formation Continue`](http://www.math.insa-toulouse.fr/fr/enseignement.html)
+<a href="http://www.insa-toulouse.fr/" ><img src="http://www.math.univ-toulouse.fr/~besse/Wikistat/Images/Logo_INSAvilletoulouse-RVB.png" style="float:left; max-width: 130px; display: inline" alt="INSA"/></a>
 
-# Science des Données, Apprentissage Statistique & IA
-
-#### Résumé
-Cette formation propose aux participants de renforcer leurs connaissances théoriques et compétences pour le développement et l'implémentation des techniques et algorithmes d'apprentissage statistique. Les principales méthodes statistiques et algorithmes d'exploration et de prévision sont présentés d'un point de vue théorique puis illustrés sur des cas d'usage réels en exécutant des tutoriels écrits en Python et utilisant les principales librairies: Scikit-learn, Keras, TensorFlow.
-
-#### Objectif du cours
-Connaître les principaux algorithmes d'apprentissage statistique et savoir les mettre en oeuvre en Python notamment pour du langage naturel et des données fonctionnelles (images, signaux).
-
-#### Objectifs pédagopgiques
-Les participants seront capables de
-
-- identifier le type de problème à traiter en fonction des données et de leurs caractéristiques, de l'objectif,
-- déterminer la bonne statégie d'apprentissage  à mettre en place, 
-- choisir les bons algorithmes à mettre en oeuvre,
-- les implémenter en utilisant les librairies dédiées en Python.
-
-#### Participants ciblés
-Ce module de formation est dédié  à des ingénieurs informaticiens, data scientists, qui souhaitent renforcer leurs compétences pour l'analyse automatique de données par des algorithmes d'apprentissage statistique et de détection d'anomalies.
-
-#### Prérequis
-- Compétences de base en Statistique: probabilités élémentaires, statistique descriptive, modèle linéaire.
-- Compétences de base en algorithmique et programmation.
-- **Installation** complète de Python 3.6 avec [Anaconda](https://conda.io/docs/user-guide/install/download.html). 
-- **Installation** avec `conda` des librairies [Keras](https://keras.io/) incluant [TensorFLow](https://www.tensorflow.org/), `gensim`.
-- `conda install -c conda-forge wordcloud`
-- Accès internet durant la session afin de pouvoir accéder à des données et d'éventuelles mises à jour.
-- Tester au préalable la bonn eexécution des tutoriels (*jupyter notebooks*) sur l'installation
+<a href="http://www.univ-tlse3.fr/" ><img src="http://www.univ-tlse3.fr/medias/photo/ut3pres_logoq_1372757033342.jpg?ID_FICHE=49702" style="float:right; max-width: 250px; display: inline"  alt="insa"/></a>
 
 
-#### Exécution des tutoriels 
+<a href="http://wikistat.fr/" ><img src="http://www.math.univ-toulouse.fr/~besse/Wikistat/Images/wikistat.jpg" style="float:center; max-width: 250px; display: inline"  alt="Wikistat"/></a>
 
-- Charger l'ensemble des calepins (*jupyter notebooks*) à partir du bouton [`download`](https://github.com/wikistat/MLTraining/archive/master.zip) de la [page d'accueil](https://github.com/wikistat/MLTraining) 
-- Décompresser le fichier téléchargé dans un répertoire 
-- Ouvrir une fenêtre de terminal
-- Changer de répertoire courant pour celui `MLTraining` créé précédemment
-- Exécuter la commande  `jupyter notebook` dans ce terminal pour lancer le navigateur par défaut
-- Ouvrir le bon calepin à partir de l'onglet `Home` du navigateur 
-- Exécuter les cellules en analysant les commandes et interprétant les résultats.
 
-*Contacts:*  [Philippe Besse](https://www.math.univ-toulouse.fr/~besse/),  [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/) 
 
-### Programme de trois jours 
-9h-12h 13h30-17h
+# Machine Learning Training for Data Science
 
-#### Premier jour
+#### Abstract
+This training course enables the participants to reinforce their theoretical and practical knowledge in order to implement machine learning techniques for the automatic analysis of data. The main statistical methods for data analysis are presented, both for data exploration (non-supervised learning) and for prediction (supervised learning). Each method is first presented and commented on a theoretical level, and then illustrated on numerical experiments run with public datasets using R and/or  python/scikit-learn software.
 
-* [Diaporama 1](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-j1-linTreeRfBoost.pdf)
-* Apprentissage supervisé 1
-   - Quantifier une erreur de prévision, un risque
-   - Rappels sur le modèle linéaire gaussien, la régression logistique
-   - Arbres et agrégation (*random forest, boosting, XGBoost*)
-* Tutoriels
-  - [`ML-MNIST.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb): reconnaissance de caractères du fichier MNIST (épisodes 1 et 2).
-  - [`ML-4-IoT-Har.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-4-IoT-Har.ipynb): Analyse de signaux: gyroscope et accéléromètre appliqué à la reconnaissance d'activité humaine (HAR épisodes 1 et 2))
-  - [`ML-Python-CDiscount.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Cdiscount/ML-Python-CDiscount.ipynb): *NLP*: prévision de catégories de textes (épisodes 1 à 3)
+#### Objective of the training
+To know the main algorithms of automatic data analysis, and to know how to use them with R and/or python/scikit-learn.
 
-#### Deuxième jour
-* [Diaporama 2.1](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-j21-SVM.pdf)
-* [Diaporama 2.2](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-j22-RnDl.pdf)
-* Apprentissage supervisé 2
-   - SVM
-   - Réseaux de neurones
-   - Apprentissage profond
-* Tutoriels
-  - [`ML-MNIST.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb): reconnaissance de caractères du fichier MNIST (épisode 3).
-  - [`ML-4-IoT-Har.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-4-IoT-Har.ipynb):  HAR par apprentissage profond sans transformer les données (épisodes 3).
-  - [`ML-Python-CDiscount.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Cdiscount/ML-Python-CDiscount.ipynb): *NLP*: `Word2Vec` puis prévision de catégories de textes (épisodes 4 et 5)
-  - [`Atelier-keras-CatsVSDogs.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/CatsVSDogs/Atelier-keras-CatsVSDogs.ipynb): (facultatif) Reconnaissance d'images par transfert d'apprentissage. Carte GPU nécessaire pour entraîner le réseau avec l'ensemble de la base d'apprentissage.
+#### Educational objectives
+The participants should be able to:
 
-#### Troisième jour
-* [Diaporama 3.1](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-j31-splinOnd.pdf)
-* [Diaporama 3.2](https://github.com/wikistat/MLTraining/blob/master/Diapos/FC-SII-j32-anomDetect.pdf)
-* Préparation des données pour des signaux
-   - splines, ondelettes
-* Détection d'anomalies
-   - CAH, LOF, 
-   - OCC SVM, Isolation forest
-* Tutoriels
-   - [`Apprent-Python-Ozone.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb) 
-      - (Facultatif) Prévision de la concentration en ozone, révision des jours précédents (épisodes 1 à 4). 
-      - (Facultatif) Imputation de données manquantes (épisode 5). 
-      - Anomalies des données (épisode 5 bis). Exécuter les cellules jusqu'à la section 4.1 incluses pour préparer les données avant de sauter à l'épisode 5 bis.
-   - [`HDL-Python-wavelet-1D.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/AnomFonc/HDL-Python-wavelet-1D.ipynb): Introduction à la décomposition en ondelettes 1D avec Python.
-   - [`HDL-Python-Anomaly-Detection.ipynb`](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HDL-Python-Anomaly-Detection.ipynb) Détection d'anomalies en grande dimension (données fonctionnelles). CAH, LOF, Isolation Forest, One Class SVM sur les coefficients en ondelettes de courbes.
- 
+- recognize the type of problem that they are facing: supervised or non-supervised learning, sequential learning, reinforcement learning…;
+- choose the right algorithm to use;
+- use an R or python implementation of this algorithm.
 
-*N.B.* Des calepins d'analyse d'autres cas d'usage sont disponibles sur le site  [Wikistat](https://github.com/wikistat/).
+#### Target participants
+This training session is for students, engineers, and computer scientists who wish to reinforce or extend their theoretical background and practical knowledge on automatic data analysis by statistical learning algorithms.
+
+#### Prerequisites
+
+- Basic knowledge in statistics: elementary probability, statistical tests, gaussian linear model.
+- Basic knowledge in algorithmic and programming.
+- **Install** Python 3.6 with [Anaconda](https://conda.io/docs/user-guide/install/download.html). 
+- **Install** with `conda` the [Keras](https://keras.io/) library including [TensorFLow](https://www.tensorflow.org/).
+- Internet access during the sessions in order to get possible updates or to load additional libraries.
+
+*Scientific contacts:*  [Philippe Besse](https://www.math.univ-toulouse.fr/~besse/),  [Sébastien Gerchinovitz](https://www.math.univ-toulouse.fr/~sgerchin/), [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/) 
+
+#### Program
+Every day from 9h to 17h30. Morning: lecture; afternoon: hands-on sessions.
+
+- **Day1 ML Introduction and Unsupervised learning**
+	- General presentation of statistical machine learning 
+	- Principal component analysis  
+	- Agglomerative Hierarchical Clustering
+	- k-means, k-medoids and variants, DBSCAN
+	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/day1.pdf)
+	- **Tutorials** Execute successively the episodes one of each notebook: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb),
+	[Mars](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Mars/ML-Tutorial-Mars.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb). The segmentation of an image of Mars by clustering algorithms is specific to the first day.
+	- ***N.B.*** It would be too long to execute all notebooks. So you can choose then accordingly to your level and / or your field of interest. Their is a complexity progression from Ozone to MNIST.
+- **Day2 Supervised learning 1 / 2**
+	- k nearest neighbors
+	- Gaussian linear model, logistic regression, model selection
+	- Lasso et variants
+	- Support Vector Machines
+	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/day2.pdf)
+	- **Tutorials** Episodes two of: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb)
+- **Day3 Supervised learning 2 / 2**
+	- Decision Trees
+	- Bagging, Random Forests, Boosting
+	- Neural networks, deep learning
+	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/day3.pdf)
+	- **Tutorials** Episodes three of: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb)
+- **Day4 Other ML algorithms**
+	- Sequential learning, multi-armed bandit problems
+	- Super-learning and expert aggregation
+	- Reinforcement learning (introduction)
+	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/day4.pdf)
+	- **Tutorials**[Inventory Control](https://github.com/wikistat/MLTraing/tree/master/Notebooks/home-local/pbesse/Documents/GitHub/MLTraining/Notebooks/inventoryControl.R)
+	
+*N.B.* Notebooks analysing many other use cases are available on [Wikistat](https://github.com/wikistat/).
 

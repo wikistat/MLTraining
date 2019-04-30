@@ -2,25 +2,14 @@
 
 # Science des Données, Apprentissage Statistique & IA
 
-## Tutoriels: calepins (*jupyter notebook*) de cas d'usage
 
-### Mode d'emploi
+## Tutoriels et cas d'usage
 
-Ce répertoire contient tous les calepins (*jupyter notebooks*) ainsi que les jeux de données nécessaires. 
+- [*Clustering*](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Clustering/) Outils d'exploration statistique: réduction de dimension (ACP, T-SNE), classification non supervisée (*k*-means, CAH, DBSCAN, mélanges gaussiens...)
+- [*Ozone*](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/) Prévision de la concentration en Ozone par adaptation statistique
+- [*Mars*](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Mars/) Segmentation d'image par classification non supervisée;
+- [*HAR*](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/) *Human activity recognition*;
+- [*MNIST*](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/) Reconnaissance de caractères manuscritpts par reconnaisance d'image.
 
-- Charger l'ensemble des calepins (*jupyter notebooks*) à partir du bouton [`download`](https://github.com/wikistat/MLTraining/archive/master.zip) de la [page d'accueil](https://github.com/wikistat/MLTraining) 
-- Décompresser le fichier téléchargé
-- Ouvrir une fenêtre de terminal
-- Changer de répertoire courant pour celui `MLTraining` créé précédemment
-- Exécuter la commande  `jupyter notebook` dans ce terminal qui lance le navigateur par défaut
-- Ouvir le bon calepin à partir de l'onglet `Home` du navigateur 
-- Exécuter les cellules en analysant les commandes successives et interprétant les résultats.
 
-### Cas d'usage
-- [AnomFonc](https://github.com/wikistat/MLTraining/tree/master/Notebooks/AnomFonc): décomposition en ondelettes et détection d'anomalies de données fonctionelles.
-- [CatsVSDogs](https://github.com/wikistat/MLTraining/tree/master/Notebooks/CatsVSDogs): reconnaissance d'images par transfert d'apprentissage d'un réseau de neurpones profond.
-- [Cdiscount](https://github.com/wikistat/MLTraining/tree/master/Notebooks/Cdiscount): catégorisation de produits à partir de leur descriptif. *Natural Language Process (NLP)*. Préparation des données, vectorisation (TFIDF, word2vec), classificaiton supervisée.
-- [HAR](https://github.com/wikistat/MLTraining/tree/master/Notebooks/HAR): *Human activity recognition* à partir des signaux (accéléromètre, gyroscope) d'un smartphone. 
-- [Mars](https://github.com/wikistat/MLTraining/tree/master/Notebooks/Mars): classification non supervisée appliquée à la cartographie géologique d'une photo de Mars.
-- [MNIST(https://github.com/wikistat/MLTraining/tree/master/Notebooks/MNIST)]: reconnaissance d'images de caractères manuscripts. Comparaison des performances des principaux algorithmes dont l'apprentissage profond.
-- [Ozone](https://github.com/wikistat/MLTraining/tree/master/Notebooks/Ozone): problème de prévision par *adaptation statistique*. Comparaison des performances des algorithmes d'apprentissage les plus répandus. Imputation de données manquantes, détection d'anomalies.  
+
