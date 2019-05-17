@@ -40,10 +40,11 @@ Every day from 9h to 17h30. Morning: lecture; afternoon: hands-on sessions.
 
 - **Day1 ML Introduction and Unsupervised learning**
 	- General presentation of statistical machine learning 
+	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/CERFACS-J0-2019.pdf)
 	- Principal component analysis  
 	- Agglomerative Hierarchical Clustering
 	- k-means, k-medoids and variants, DBSCAN
-	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/day1.pdf)
+	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/CERFACS-J1-2019.pdf)
 	- **Tutorials** Execute successively the episodes one of each notebook: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb),
 	[Mars](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Mars/ML-Tutorial-Mars.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb). The segmentation of an image of Mars by clustering algorithms is specific to the first day.
 	- ***N.B.*** It would be too long to execute all notebooks. So you can choose then accordingly to your level and / or your field of interest. Their is a complexity progression from Ozone to MNIST.
@@ -52,19 +53,19 @@ Every day from 9h to 17h30. Morning: lecture; afternoon: hands-on sessions.
 	- Gaussian linear model, logistic regression, model selection
 	- Lasso et variants
 	- Support Vector Machines
-	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/day2.pdf)
+	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/CERFACS-J2-2019.pdf)
 	- **Tutorials** Episodes two of: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb)
 - **Day3 Supervised learning 2 / 2**
 	- Decision Trees
 	- Bagging, Random Forests, Boosting
 	- Neural networks, deep learning
-	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/day3.pdf)
+	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/CERFACS-J3-2019.pdf)
 	- **Tutorials** Episodes three of: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb)
 - **Day4 Other ML algorithms**
 	- Sequential learning, multi-armed bandit problems
 	- Super-learning and expert aggregation
 	- Reinforcement learning (introduction)
-	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/day4.pdf)
+	- [**Slides**](https://github.com/wikistat/MLTraing/tree/master/Slides/CERFACS-J4-2019.pdf)
 	- **Tutorials**[Inventory Control](https://github.com/wikistat/MLTraing/tree/master/Notebooks/home-local/pbesse/Documents/GitHub/MLTraining/Notebooks/inventoryControl.R)
 	
 *N.B.* Notebooks analysing many other use cases are available on [Wikistat](https://github.com/wikistat/).
