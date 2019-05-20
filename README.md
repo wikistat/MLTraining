@@ -43,9 +43,9 @@ Every day from 9h to 17h30. Morning: lecture; afternoon: hands-on sessions.
 	- [**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J0-2019.pdf)
 	- Principal component analysis  
 	- Agglomerative Hierarchical Clustering
-	- k-means, k-medoids and variants, DBSCAN
+	- k-means, k-medoids and variants, DBSCAN...
 	- [**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J1-2019.pdf)
-	- **Tutorials** Execute successively the episodes one of each notebook: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb),
+	- **Tutorials** Execute successively the first [tutorial](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Clustering/ML-Clustering.ipynb) and then the episodes one of each notebook: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb),
 	[Mars](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Mars/ML-Tutorial-Mars.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb). The segmentation of an image of Mars by clustering algorithms is specific to the first day.
 	- ***N.B.*** It would be too long to execute all notebooks. So you can choose then accordingly to your level and / or your field of interest. Their is a complexity progression from Ozone to MNIST.
 - **Day2 Supervised learning 1 / 2**
