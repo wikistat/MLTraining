@@ -3,7 +3,7 @@
 # Science des Données, Apprentissage Statistique & IA
 
 
-## *Human Activitty Recognition*
+## *Human Activity Recognition*
 
 #### Résumé 
-L'objectif est d'identifié l'activité du porteur d'un smartphone à partir des signaux enregistrés par les capteurs embarqués: gyroscope et accéléromètre. Après une approche exploratoire des signaux (ACP, AFD), deux stratégies sont comparées. La première entraîne des algorithems d'apprentissge sur les signaux transformées (*features*) par des fonctions "métiers" du traitement du signal. La Deuxième entraîne un réseau de neurones profonds directement sur les signaux bruts.
+L'objectif est d'identifier l'activité du porteur d'un smartphone à partir des signaux enregistrés par les capteurs embarqués : gyroscope et accéléromètre. Après une approche exploratoire des signaux (ACP, AFD), deux stratégies sont comparées. La première entraîne des algorithmes d'apprentissge sur les signaux transformés (*features*) par des fonctions "métier" du traitement du signal. La deuxième entraîne un réseau de neurones profond directement sur les signaux bruts.

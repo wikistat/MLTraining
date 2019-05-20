@@ -6,5 +6,5 @@
 ## Cartographie géologique à partir d'une photo de Mars
 
 #### Résumé 
-Après une approche exploraotire d'une photo de Mars, l'utilisation d'algorithmes de classification non supervisée (*clustering*) permet de représenter en fausses couleurs les zones géologiquement proches de de la surface de Mars. 
+Après une approche exploratoire d'une photo de Mars, l'utilisation d'algorithmes de classification non supervisée (*clustering*) permet de représenter en fausses couleurs les zones géologiquement proches de la surface de Mars. 
 
