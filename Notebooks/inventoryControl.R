@@ -8,10 +8,11 @@ q <- 0.1;
 pD <- q*(1-q)^(0:(M-1));
 pD[1+M] <- 1 - sum(pD);
 
-# random demand
+# random demand (drawn from p, starting at 0)
 rdemand <- function(p){
   sum(runif(1)>cumsum(p));
 }
+
 
 # reward function
 reward <- function(x, a, d){
@@ -50,7 +51,7 @@ R <- simu(n, pi);
 V <- cumsum(R * gamma^(0:(n-1)));
 plot(0:n, c(0,V), type='l')
 
-# building the transition kernel
+# building the transition kernel and the expected reward function
 trans <- list()
 rew <- list()
 for (a in 0:M){
@@ -137,7 +138,7 @@ policyIteration <- function(){
 Qlearning <- function(n){
   Q <- matrix(0, nrow = 1+M, ncol = 1+M)
   epsilon <- 0.9# epsilon-greedy policy
-  X <- M # on part charge
+  X <- M # we start full
   for (t in 1:n){
     A <- -1+which.max(Q[X,])
     if (runif(1)<epsilon) {A <- floor((1+M)*runif(1))}
