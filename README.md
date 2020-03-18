@@ -44,29 +44,36 @@ Every day from 9h to 17h30. Morning: lecture; afternoon: hands-on sessions.
 	- Principal component analysis  
 	- Agglomerative Hierarchical Clustering
 	- k-means, k-medoids and variants, DBSCAN...
-	- [**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J1-2019.pdf)
-	- **Tutorials** Execute successively the first [tutorial](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Clustering/ML-Clustering.ipynb) and then the episodes one of each notebook: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb),
-	[Mars](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Mars/ML-Tutorial-Mars.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb). The segmentation of an image of Mars by clustering algorithms is specific to the first day.
+	- 
+	[**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J1-UL-2019.pdf)
+	- **Tutorials** Execute successively the first 
+	[tutorial](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Clustering/ML-Clustering.ipynb) and then the episodes one of each notebook: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb),
+	[Mars](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Mars/ML-Clustering-Mars.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-4-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb). The segmentation of an image of Mars by clustering algorithms is specific to the first day.
 	- ***N.B.*** It would be too long to execute all notebooks. So you can choose then accordingly to your level and / or your field of interest. Their is a complexity progression from Ozone to MNIST.
 - **Day2 Supervised learning 1 / 2**
 	- k nearest neighbors
 	- Gaussian linear model, logistic regression, model selection
 	- Lasso et variants
 	- Support Vector Machines
-	- [**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J2-2019.pdf)
-	- **Tutorials** Episodes two of: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb)
+	- 
+	[**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J2-ML1-2019.pdf)
+	- **Tutorials** Episodes two of: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-4-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb)
 - **Day3 Supervised learning 2 / 2**
 	- Decision Trees
 	- Bagging, Random Forests, Boosting
 	- Neural networks, deep learning
-	- [**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J3-BL-2019.pdf)
-	- **Tutorials** Episodes three of: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb)
+	- 
+	[**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J3-ML2-2019.pdf)
+	- **Tutorials** Episodes three of: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-4-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb)
 - **Day4 Other ML algorithms**
 	- Sequential learning, multi-armed bandit problems
 	- Super-learning and expert aggregation
 	- Reinforcement learning (introduction)
-	- [**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J4-2019.pdf)
-	- **Tutorials**[Inventory Control](https://github.com/wikistat/MLTraing/tree/master/Notebooks/home-local/pbesse/Documents/GitHub/MLTraining/Notebooks/inventoryControl.R)
+	- 
+	[**Slides bandits**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J4-Bandits-2019.pdf),
+	[**Slides RL**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J4-RL-2019.pdf)
+	- **Tutorials** [Inventory 
+	Control](https://github.com/wikistat/MLTraing/tree/master/Notebooks/home-local/pbesse/Documents/GitHub/MLTraining/Notebooks/inventoryControl.R)
 	
 *N.B.* Notebooks analysing many other use cases are available on [Wikistat](https://github.com/wikistat/).
 
