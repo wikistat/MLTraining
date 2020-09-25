@@ -20,5 +20,5 @@ def load_signals(directory, dataset, signals):
 def load_y(directory,dataset = "train"):
     filename = directory+"/"+dataset+'/y_'+dataset+'.txt'
     y = my_read_csv(filename)[0]
-    Y = y.as_matrix()
+    Y = y.values
     return Y
