@@ -63,7 +63,7 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
    - Modèles linéaires en classification: régression logistique, SVM linéaires
 * TP 2.1
 * Cours 2.2 
-   - Méthodes non linéaitres en régression et classification: arbres de décision, forêts aléatoires, boosting
+   - Méthodes non linéaires en régression et classification: arbres de décision, forêts aléatoires, boosting
 * TP 2.2
 
 #### Troisième jour
