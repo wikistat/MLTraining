@@ -45,7 +45,7 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
 *Contacts:*  [Philippe Besse](https://www.math.univ-toulouse.fr/~besse/),  [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/) 
 
 ### Programme de trois jours 
-- **Cours** 8h30h-10h **Pause** 10h-10h30 **TP** 10h30-12h30 
+- **Cours** 9h-10h15 **Pause** 10h15-10h30 **TP** 10h30-12h30 
 - **Cours** 14h-15h30 **Pause** 15h30-16h **TP** 16h-18h
 
 #### Premier jour
