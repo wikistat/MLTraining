@@ -28,7 +28,7 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
  `conda install -c conda-forge keras ` 
    
     de la librairie [Keras](https://keras.io/) incluant [TensorFLow](https://www.tensorflow.org/).
-- **Installation** également de: `conda install pidotplus`
+- **Installation** également de: `conda install pydotplus`
 - Accès internet durant la session afin de pouvoir accéder à des données et d'éventuelles mises à jour.
 - **Tester** au préalable la bonne exécution des tutoriels (*jupyter notebooks*) sur l'installation
 
