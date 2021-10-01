@@ -43,11 +43,11 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
 - Ouvrir le bon calepin à partir de l'onglet `Home` du navigateur 
 - Exécuter les cellules en analysant les commandes et interprétant les résultats.
 
-*Contacts:*  [Philippe Besse](https://www.math.univ-toulouse.fr/~besse/),  [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/) 
+*Contacts:*  [Olivier Roustant](https://olivier-roustant.fr/),  [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/) 
 
-### Programme de trois jours 
-- **Cours** 9h-10h15 **Pause** 10h15-10h30 **TP** 10h30-12h30 
-- **Cours** 14h-15h30 **Pause** 15h30-16h **TP** 16h-18h
+### Programme de quatre jours 
+- **Cours** 9h-10h30 **Pause** 10h30-11H **Cours** 11H-12h30 
+- **TP** 14h-17H15 
 
 #### Premier jour
 * Cours 1.1 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J1.1.pdf)
@@ -76,6 +76,8 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
 * Cours 3.2 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/Cours-J3.2.pdf)
    - Détection d’anomalies : principaux algorithmes : Isolation forest, Local Outlier Factor, One Class SVM
 * TP 3.2: Exécuter les algorithmes concernés des calepins [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb) (épisode 5) et [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-4-IoT-Har.ipynb) (épisode 4).
+ 
+ #### Quatrième jour 
  
 *N.B.* Des calepins d'analyse d'autres cas d'usage sont disponibles sur le site  [Wikistat](https://github.com/wikistat/).
 
