@@ -70,11 +70,11 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
 #### Troisième jour
 * Cours 3.1 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.1-2022.pdf)
    - Méthodes non linéaires en régression et classification: arbres de décision, forêts aléatoires, boosting
-* TP 3.1: Exécuter les algorithmes concernés des calepins [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb) (épisodes 3 et 4), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-4-IoT-Har.ipynb) (épisode 2) et  [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb) (épisode 2).
+* TP 3.1: Exécuter les algorithmes concernés des calepins [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb) (épisodes 3 et 4), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-4-IoT-Har.ipynb) (épisode 2) et  [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb) (épisode 2).
 
 * Cours 3.2 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.2-2022.pdf)
    -  Réseaux de neurones et introduction à l’apprentissage profond
-* TP 3.2: Exécuter les algorithmes concernés des calepins  [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-4-IoT-Har.ipynb) (épisode 3) et  [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb) (épisode 3).
+* TP 3.2: Exécuter les algorithmes concernés des calepins [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-4-IoT-Har.ipynb) (épisode 3) et  [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb) (épisode 3).
  
  #### Quatrième jour 
  
