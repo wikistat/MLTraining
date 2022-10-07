@@ -56,7 +56,7 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
    - Exploration multidimensionnelle
    - Classification non supervisée (clustering)
 * TP (après-midi). 
-   - Première partie : Exécuter le tutoriel [Mars](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Mars/ML-Clustering-Mars.ipynb). 
+   - Première partie : Exécuter le tutoriel [Mars](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Mars/ML-Tutorial-Mars.ipynb). 
    - Deuxième partie : Exécuter en priorité la section "Exploration des données métier" de l'épisode 1 de [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-4-IoT-Har.ipynb). Ce problème sera repris plus tard dans un but de classification supervisée. 
 
 #### Deuxième jour
