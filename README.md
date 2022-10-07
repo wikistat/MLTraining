@@ -60,13 +60,12 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
    - Deuxième partie : Exécuter en priorité la section "Exploration des données métier" de l'épisode 1 de [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-4-IoT-Har.ipynb). Ce problème sera repris plus tard dans un but de classification supervisée. 
 
 #### Deuxième jour
-* Cours 2.1 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J2.1-2022.pdf)
-   - Modèle linéaire en régression
-* TP 1.2: Exécuter l'épisode 1 et les sections 4.1 et 4.2 de l'épisode 2 de [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb). S'arrêter avant la régression logistique. En fonction du temps, exécuter l'épisode 1 (exploration) de [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb).
-
-* Cours 2.2 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J2.1.pdf)
-   - Modèles linéaires en classification: régression logistique, SVM linéaires
-* TP 2.1: Exécuter les algorithmes concernés (épisode 2) des calepins [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb) et [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-4-IoT-Har.ipynb).
+* Cours (matin)
+   - Modèle linéaire en régression [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J2.1-2022.pdf)
+   - Modèles linéaires en classification: régression logistique, SVM [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J2.2-2022.pdf)
+* TP (après-midi)
+    - Première partie : Exécuter la fin du tutoriel de [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-4-IoT-Har.ipynb)   
+    - Deuxième partie : Exécuter l'épisode 1, ainsi que les algorithmes concernés de l'épisode 2 de [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb). 
 
 #### Troisième jour
 * Cours 3.1 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.1-2022.pdf)
