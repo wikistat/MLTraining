@@ -46,7 +46,7 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
 *Contacts:*  [Olivier Roustant](https://olivier-roustant.fr/),  [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/) 
 
 ### Programme de quatre jours 
-- **Cours** 9h-10h30 **Pause** 10h30-11H **Cours** 11H-12h30 
+- **Cours** 9h30-11h **Pause** 11H-11H30 **Cours** 11H30-13H
 - **TP** 14h-17H15 
 
 #### Premier jour
@@ -69,7 +69,7 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
 
 #### Troisième jour
 * Cours 3.1 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.1-2022.pdf)
-   - Méthodes non linéaires en régression et classification: arbres de décision, forêts aléatoires, boosting
+   - Méthodes non linéaires en régression et classification: arbres de décision, forêts aléatoires
 * TP 3.1: Exécuter les algorithmes concernés des calepins [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb) (épisodes 3 et 4), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-4-IoT-Har.ipynb) (épisode 2) et  [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb) (épisode 2).
 
 * Cours 3.2 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.2-2022.pdf)
