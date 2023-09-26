@@ -60,19 +60,19 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
    - Deuxième partie : Exécuter en priorité la section "Exploration des données métier" de l'épisode 1 de [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-4-IoT-Har.ipynb). Ce problème sera repris plus tard dans un but de classification supervisée. 
 
 #### Deuxième jour
-* Cours (matin)
-   - Modèle linéaire en régression [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J2.1-2022.pdf)
-   - Modèles linéaires en classification: régression logistique, SVM [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J2.2-2022.pdf)
+* Cours (matin) [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J2-2023.pdf)
+   - Modèle linéaire en régression 
+   - Modèles linéaires en classification: régression logistique, SVM 
 * TP (après-midi)
     - Première partie : Exécuter les algorithmes concernés de l'épisode 2 de [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-4-IoT-Har.ipynb)   
     - Deuxième partie : Exécuter les épisodes 1 et 2 de [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb). 
 
 #### Troisième jour
-* Cours 3.1 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.1-2022.pdf)
+* Cours 3.1 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.1-2023.pdf)
    - Méthodes non linéaires en régression et classification: arbres de décision, forêts aléatoires
 * TP 3.1: Exécuter les algorithmes concernés des calepins [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb) (épisodes 3 et 4), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-4-IoT-Har.ipynb) (épisode 2) et  [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb) (épisode 2).
 
-* Cours 3.2 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.2-2022.pdf)
+* Cours 3.2 [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.2-2023.pdf)
    -  Réseaux de neurones et introduction à l’apprentissage profond
 * TP 3.2: Exécuter les algorithmes concernés des calepins [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-4-IoT-Har.ipynb) (épisode 3) et  [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-MNIST.ipynb) (épisode 3).
  
