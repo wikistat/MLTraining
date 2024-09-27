@@ -60,7 +60,7 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
    - Deuxième partie : Exécuter en priorité la section "Exploration des données métier" de l'épisode 1 de [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-4-IoT-Har.ipynb). Ce problème sera repris plus tard dans un but de classification supervisée. 
 
 #### Deuxième jour
-* Cours (matin) [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J2-2023.pdf)
+* Cours (matin) [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J2-2024.pdf)
    - Modèle linéaire en régression 
    - Modèles linéaires en classification: régression logistique, SVM 
 * TP (après-midi)
@@ -68,10 +68,10 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
     - Deuxième partie : Exécuter les épisodes 1 et 2 de [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/Apprent-Python-Ozone.ipynb). 
 
 #### Troisième jour
-* Cours 3.1 (matin) [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.1-2023.pdf)
+* Cours 3.1 (matin) [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.1-2024.pdf)
    - Méthodes non linéaires en régression et classification: arbres de décision, forêts aléatoires
  
-* Cours 3.2 (matin) [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.2-2023.pdf)
+* Cours 3.2 (matin) [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J3.2-2024.pdf)
    -  Réseaux de neurones et introduction à l’apprentissage profond
  
 * TP (après-midi).     
