@@ -51,7 +51,7 @@ Ce module de formation est dédié  à des *data scientists*, ingénieurs, cherc
 
 #### Premier jour
 * Tour de table des participants
-* Cours (matin) [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J1-2023.pdf)
+* Cours (matin) [Diaporama](https://github.com/wikistat/MLTraining/blob/master/Slides/COURS-J1-2024.pdf)
    - Introduction
    - Exploration multidimensionnelle
    - Classification non supervisée (clustering)
