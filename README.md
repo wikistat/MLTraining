@@ -9,7 +9,7 @@ Cette formation propose aux participants de renforcer leurs connaissances théor
 #### Objectif du cours
 Connaître les principaux algorithmes d'apprentissage statistique et savoir les mettre en oeuvre en Python notamment pour des données vectorielles et fonctionnelles (images, signaux).
 
-#### Objectifs pédagopgiques
+#### Objectifs pédagogiques
 Les participants seront capables de
 
 - identifier le type de problème à traiter en fonction des données et de leurs caractéristiques, de l'objectif,
